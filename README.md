@@ -22,5 +22,13 @@ Video Presentation: https://youtu.be/7LagoFf1ZBY
 - D3 – Statistical Analysis
 - FME workbench – Creating shape files
 
+## Some screenshots 
+
+### Forecasted Time Series
+
+![Alt text](/screenshots/TS.png?raw=true "Forecasted Time Series")
+
+
+### Forecasted Time Series
 
 ![Alt text](/screenshots/TS.png?raw=true "Forecasted Time Series")
