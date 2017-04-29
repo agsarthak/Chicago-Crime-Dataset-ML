@@ -29,6 +29,19 @@ Video Presentation: https://youtu.be/7LagoFf1ZBY
 ![Alt text](/screenshots/TS.png?raw=true "Forecasted Time Series")
 
 
-### Forecasted Time Series
+### ArcGIS screen 1
 
-![Alt text](/screenshots/TS.png?raw=true "Forecasted Time Series")
+![Alt text](/screenshots/arcgis1.png?raw=true "ArcGIS Screen 1")
+
+### ArcGIS screen 2
+
+![Alt text](/screenshots/arcgis2.png?raw=true "ArcGIS Screen 2")
+
+### ArcGIS screen 3
+
+![Alt text](/screenshots/arcgis3.png?raw=true "ArcGIS Screen 3")
+
+### Web Application Home Screen (with some statistical analysis)
+
+![Alt text](/screenshots/webapp.png?raw=true "Web Application Home Screen")
+
