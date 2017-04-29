@@ -5,6 +5,7 @@ Web application URL: http://138.91.152.159:8080/ADS_FinalProject/
 
 Video Presentation: https://youtu.be/7LagoFf1ZBY
 
+For details refer **Report.pdf**
 
 *Team Members(Team 9):*
 - Aashri Tandon
