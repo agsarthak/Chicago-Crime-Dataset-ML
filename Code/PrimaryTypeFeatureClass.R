@@ -1,0 +1,10 @@
+library(arcgisbinding)
+arc.check_product()
+
+enrich_df <- arc.open(path = 'D:/Primary2012/CSV.shp')
+enrich_select_df <- arc.select(object = enrich_df, fields = c('FID', 'Shape','Year','District','narcotics_','theft_coun','criminal_d','burgalary_','assault_co','robbery_co','others_cou','total_crim','Latitude','Longitude'))
+library(sp)
+enrich_spdf <- arc.data2sp(enrich_select_df)
+head(enrich_spdf@data)
+arcgis_df <- arc.sp2data(enrich_spdf)
+arc.write('C:/Users/pragati/Documents/ArcGIS/Projects/CrimeDataAnalysis/CrimeDataAnalysis.gdb/Primary2012', arcgis_df)
