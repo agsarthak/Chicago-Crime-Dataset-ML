@@ -9,17 +9,17 @@ Video Presentation: https://youtu.be/7LagoFf1ZBY
 
 TEAM MEMBERS (Team 9):
 
-- AASHRI TANDON
-- PRAGATI SHAW
-- SARTHAK AGARWAL 
+- Aashri Tandon
+- Pragati Shaw
+- Sarthak Agarwal
 
 
-Infrastructure
-Python – Data processing 
-R - Machine Learning (Time Series analysis) 
-Docker – For easy distribution and submission.
-Java – Web application.
-Microsoft Azure – Machine learning Rest API
-ArcGIS pro – Geospatial Analysis
-D3 – Statistical Analysis
-FME workbench – Creating shape files
+*Infrastructure*
+- Python – Data processing 
+- R - Machine Learning (Time Series analysis) 
+- Docker – For easy distribution and submission.
+- Java – Web application.
+- Microsoft Azure – Machine learning Rest API
+- ArcGIS pro – Geospatial Analysis
+- D3 – Statistical Analysis
+- FME workbench – Creating shape files
